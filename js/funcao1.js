@@ -1,3 +1,4 @@
-window.produto = function(num1, num2){
+function produto(num1, num2){
     return num1 * num2;
 }
+
